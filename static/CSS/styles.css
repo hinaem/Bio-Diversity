@@ -1,0 +1,26 @@
+.jumbotron {
+    color: rgb(224, 224, 255);
+    text-align: center;
+
+}
+
+#metaDataPanel {
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+#metaPanel .panel-header {
+text-align: center;
+}
+
+#selDataset {
+    padding: 20px;
+color: rgb(0, 0, 0);
+}
+
+#samplePanel {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(255, 238, 0);
+}}
